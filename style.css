@@ -1,0 +1,90 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+  font-family: verdana;
+}
+
+.container{
+  background-color: black;
+  background: rgba(0,0,0,0.5);
+  width: 870px;
+  height: 620px;
+  border-radius: 10px;
+  padding-top: 40px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+header{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.logo-foto{
+  width: 180px;
+}
+
+h1{
+  color: limegreen;
+  font-size: 20px;
+  font-weight: 550;
+}
+
+.button-background{
+  font-weight: 10;
+  font-size: 10px;
+  margin-left: 75px;
+  background-color: limegreen;
+  width: 700px;
+  height: 30px;
+  padding: 7px;
+}
+
+.button{
+  width: auto;
+  height: 15px;
+  font-size: 8px;
+}
+
+main{
+  padding-top: 10px;
+  padding-left: 75px;
+  color: white;
+}
+
+.proprietario{
+  font-size: 15px;
+  font-weight: 550;
+  margin-top: auto;
+}
+
+.text-monopattini{
+  font-size: 12px;
+}
+
+.carica-gino{
+  background-color: orange;
+  width: 250px;
+  height: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.carica-mike{
+  background-color: limegreen;
+  width: 450px;
+  height: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.carica-fede{
+  background-color: red;
+  width: 100px;
+  height: 20px;
+  border-radius: 5px;
+}
